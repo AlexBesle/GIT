@@ -40,6 +40,12 @@
 
 
 </div>
+
+<footer>
+
+  <p class="text-center">mon footer à moi</p>
+
+</footer>
     
 
 
